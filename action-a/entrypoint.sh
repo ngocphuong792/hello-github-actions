@@ -1,3 +1,3 @@
-#! / bin / sh -l
+#!/bin/sh -l
 
-sh -c " echo Xin chào thế giới, tên tôi là $ INPUT_MY_NAME "
+sh -c "echo Hello world my name is $INPUT_MY_NAME"
